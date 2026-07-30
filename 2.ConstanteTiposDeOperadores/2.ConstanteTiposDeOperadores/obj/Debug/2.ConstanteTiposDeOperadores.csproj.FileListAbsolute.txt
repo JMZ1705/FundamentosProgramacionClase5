@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\2.ConstanteTiposDeOperadores\2.ConstanteTiposDeOperadores\bin\Debug\2.ConstanteTiposDeOperadores.exe.config
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\2.ConstanteTiposDeOperadores\2.ConstanteTiposDeOperadores\bin\Debug\2.ConstanteTiposDeOperadores.exe
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\2.ConstanteTiposDeOperadores\2.ConstanteTiposDeOperadores\bin\Debug\2.ConstanteTiposDeOperadores.pdb
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\2.ConstanteTiposDeOperadores\2.ConstanteTiposDeOperadores\obj\Debug\2.ConstanteTiposDeOperadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\2.ConstanteTiposDeOperadores\2.ConstanteTiposDeOperadores\obj\Debug\2.ConstanteTiposDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\2.ConstanteTiposDeOperadores\2.ConstanteTiposDeOperadores\obj\Debug\2.ConstanteTiposDeOperadores.exe
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\2.ConstanteTiposDeOperadores\2.ConstanteTiposDeOperadores\obj\Debug\2.ConstanteTiposDeOperadores.pdb
