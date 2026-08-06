@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\4.CondicionalesSimpleyDoble\4.CondicionalesSimpleyDoble\bin\Debug\4.CondicionalesSimpleyDoble.exe.config
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\4.CondicionalesSimpleyDoble\4.CondicionalesSimpleyDoble\bin\Debug\4.CondicionalesSimpleyDoble.exe
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\4.CondicionalesSimpleyDoble\4.CondicionalesSimpleyDoble\bin\Debug\4.CondicionalesSimpleyDoble.pdb
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\4.CondicionalesSimpleyDoble\4.CondicionalesSimpleyDoble\obj\Debug\4.CondicionalesSimpleyDoble.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\4.CondicionalesSimpleyDoble\4.CondicionalesSimpleyDoble\obj\Debug\4.CondicionalesSimpleyDoble.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\4.CondicionalesSimpleyDoble\4.CondicionalesSimpleyDoble\obj\Debug\4.CondicionalesSimpleyDoble.exe
+C:\Users\B09S104est\Documents\Carpetica\FundamentosProgramacionClase5\4.CondicionalesSimpleyDoble\4.CondicionalesSimpleyDoble\obj\Debug\4.CondicionalesSimpleyDoble.pdb
