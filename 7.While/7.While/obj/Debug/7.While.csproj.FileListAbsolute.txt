@@ -1,0 +1,7 @@
+C:\Users\juanm\OneDrive\Documentos\ProgramacionFerney\FundamentosProgramacionClase5\7.While\7.While\7.While\bin\Debug\7.While.exe.config
+C:\Users\juanm\OneDrive\Documentos\ProgramacionFerney\FundamentosProgramacionClase5\7.While\7.While\7.While\bin\Debug\7.While.exe
+C:\Users\juanm\OneDrive\Documentos\ProgramacionFerney\FundamentosProgramacionClase5\7.While\7.While\7.While\bin\Debug\7.While.pdb
+C:\Users\juanm\OneDrive\Documentos\ProgramacionFerney\FundamentosProgramacionClase5\7.While\7.While\7.While\obj\Debug\7.While.csproj.AssemblyReference.cache
+C:\Users\juanm\OneDrive\Documentos\ProgramacionFerney\FundamentosProgramacionClase5\7.While\7.While\7.While\obj\Debug\7.While.csproj.CoreCompileInputs.cache
+C:\Users\juanm\OneDrive\Documentos\ProgramacionFerney\FundamentosProgramacionClase5\7.While\7.While\7.While\obj\Debug\7.While.exe
+C:\Users\juanm\OneDrive\Documentos\ProgramacionFerney\FundamentosProgramacionClase5\7.While\7.While\7.While\obj\Debug\7.While.pdb
