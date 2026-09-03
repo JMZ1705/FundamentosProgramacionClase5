@@ -1,0 +1,7 @@
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\12.DoWhile2\12.DoWhile2\12.DoWhile2\bin\Debug\12.DoWhile2.exe.config
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\12.DoWhile2\12.DoWhile2\12.DoWhile2\bin\Debug\12.DoWhile2.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\12.DoWhile2\12.DoWhile2\12.DoWhile2\bin\Debug\12.DoWhile2.pdb
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\12.DoWhile2\12.DoWhile2\12.DoWhile2\obj\Debug\12.DoWhile2.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\12.DoWhile2\12.DoWhile2\12.DoWhile2\obj\Debug\12.DoWhile2.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\12.DoWhile2\12.DoWhile2\12.DoWhile2\obj\Debug\12.DoWhile2.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\12.DoWhile2\12.DoWhile2\12.DoWhile2\obj\Debug\12.DoWhile2.pdb

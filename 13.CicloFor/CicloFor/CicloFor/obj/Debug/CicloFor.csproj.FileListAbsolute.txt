@@ -1,0 +1,7 @@
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\13.CicloFor\CicloFor\CicloFor\bin\Debug\CicloFor.exe.config
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\13.CicloFor\CicloFor\CicloFor\bin\Debug\CicloFor.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\13.CicloFor\CicloFor\CicloFor\bin\Debug\CicloFor.pdb
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\13.CicloFor\CicloFor\CicloFor\obj\Debug\CicloFor.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\13.CicloFor\CicloFor\CicloFor\obj\Debug\CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\13.CicloFor\CicloFor\CicloFor\obj\Debug\CicloFor.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\13.CicloFor\CicloFor\CicloFor\obj\Debug\CicloFor.pdb
