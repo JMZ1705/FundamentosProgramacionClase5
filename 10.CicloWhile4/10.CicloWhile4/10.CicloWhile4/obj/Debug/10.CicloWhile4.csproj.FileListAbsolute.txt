@@ -1,0 +1,7 @@
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\10.CicloWhile4\10.CicloWhile4\10.CicloWhile4\bin\Debug\10.CicloWhile4.exe.config
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\10.CicloWhile4\10.CicloWhile4\10.CicloWhile4\bin\Debug\10.CicloWhile4.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\10.CicloWhile4\10.CicloWhile4\10.CicloWhile4\bin\Debug\10.CicloWhile4.pdb
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\10.CicloWhile4\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\10.CicloWhile4\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\10.CicloWhile4\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\10.CicloWhile4\10.CicloWhile4\10.CicloWhile4\obj\Debug\10.CicloWhile4.pdb
