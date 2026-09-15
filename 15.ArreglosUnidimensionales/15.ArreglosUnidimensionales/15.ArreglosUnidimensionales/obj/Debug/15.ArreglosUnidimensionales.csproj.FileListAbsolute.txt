@@ -1,0 +1,7 @@
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\bin\Debug\15.ArreglosUnidimensionales.exe.config
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\bin\Debug\15.ArreglosUnidimensionales.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\bin\Debug\15.ArreglosUnidimensionales.pdb
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\obj\Debug\15.ArreglosUnidimensionales.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\obj\Debug\15.ArreglosUnidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\obj\Debug\15.ArreglosUnidimensionales.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\15.ArreglosUnidimensionales\obj\Debug\15.ArreglosUnidimensionales.pdb
