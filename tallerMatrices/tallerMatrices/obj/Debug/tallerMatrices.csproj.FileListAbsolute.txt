@@ -1,0 +1,7 @@
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerMatrices\tallerMatrices\tallerMatrices\bin\Debug\tallerMatrices.exe.config
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerMatrices\tallerMatrices\tallerMatrices\bin\Debug\tallerMatrices.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerMatrices\tallerMatrices\tallerMatrices\bin\Debug\tallerMatrices.pdb
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerMatrices\tallerMatrices\tallerMatrices\obj\Debug\tallerMatrices.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerMatrices\tallerMatrices\tallerMatrices\obj\Debug\tallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerMatrices\tallerMatrices\tallerMatrices\obj\Debug\tallerMatrices.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerMatrices\tallerMatrices\tallerMatrices\obj\Debug\tallerMatrices.pdb
