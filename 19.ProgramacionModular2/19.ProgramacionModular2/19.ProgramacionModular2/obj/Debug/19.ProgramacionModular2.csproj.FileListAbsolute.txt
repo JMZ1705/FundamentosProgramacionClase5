@@ -1,0 +1,7 @@
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\19.ProgramacionModular2\19.ProgramacionModular2\19.ProgramacionModular2\bin\Debug\19.ProgramacionModular2.exe.config
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\19.ProgramacionModular2\19.ProgramacionModular2\19.ProgramacionModular2\bin\Debug\19.ProgramacionModular2.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\19.ProgramacionModular2\19.ProgramacionModular2\19.ProgramacionModular2\bin\Debug\19.ProgramacionModular2.pdb
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\19.ProgramacionModular2\19.ProgramacionModular2\19.ProgramacionModular2\obj\Debug\19.ProgramacionModular2.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\19.ProgramacionModular2\19.ProgramacionModular2\19.ProgramacionModular2\obj\Debug\19.ProgramacionModular2.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\19.ProgramacionModular2\19.ProgramacionModular2\19.ProgramacionModular2\obj\Debug\19.ProgramacionModular2.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\19.ProgramacionModular2\19.ProgramacionModular2\19.ProgramacionModular2\obj\Debug\19.ProgramacionModular2.pdb
