@@ -1,0 +1,7 @@
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerModulos\TallerModulos\TallerModulos\bin\Debug\TallerModulos.exe.config
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerModulos\TallerModulos\TallerModulos\bin\Debug\TallerModulos.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerModulos\TallerModulos\TallerModulos\bin\Debug\TallerModulos.pdb
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerModulos\TallerModulos\TallerModulos\obj\Debug\TallerModulos.csproj.AssemblyReference.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerModulos\TallerModulos\TallerModulos\obj\Debug\TallerModulos.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerModulos\TallerModulos\TallerModulos\obj\Debug\TallerModulos.exe
+C:\Users\juanm\Documents\ProgramacionFerney\FundamentosProgramacionClase5\TallerModulos\TallerModulos\TallerModulos\obj\Debug\TallerModulos.pdb
